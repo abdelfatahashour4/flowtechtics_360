@@ -1,8 +1,6 @@
 import "./App.css";
 import { Pannellum } from "pannellum-react";
-import myImage1 from "./images/IMG_20220221_122313_00_294.jpg";
 import myImage2 from "./images/IMG_20220221_122830_00_300.jpg";
-import myImage3 from "./images/IMG_20220221_123040_00_305.jpg";
 
 function App() {
   return (
